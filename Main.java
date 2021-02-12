@@ -61,7 +61,7 @@ public class Main {
                 + initialPopulation.sumOfFitnessValues());
         initialPopulation.clearFitnessValues();
 
-        while (terminationCondition <= 1000) {
+        while (terminationCondition <= 10000) {
 
             initialPopulation.addFitnessValues(a, b, c, d);
 

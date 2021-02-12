@@ -1,0 +1,17 @@
+#
+# Derived content
+#
+/obj/
+/docs/
+/build/
+/dist/
+
+#
+# Temporary files
+#
+*~
+
+#
+# txt files
+#
+*.txt
